@@ -30,5 +30,3 @@ AI 기능을 실제 서비스와 데이터 시스템으로 구현합니다.
 ## 🔗 Links
 
 - [GitHub](https://github.com/Lee-D-S)
-- Portfolio:
-- LinkedIn:
