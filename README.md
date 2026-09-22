@@ -11,7 +11,7 @@ AI 기능을 실제 서비스와 데이터 시스템으로 구현합니다.
 - [Stock Signal Lab](https://github.com/Lee-D-S/stock-signal-lab)
   - 주식 데이터 분석 및 자동화 시스템
  
-- [LG Aimers](https://github.com/lg-first-penguin/dongseop)
+- [LG Aimers 9](https://github.com/lg-first-penguin/dongseop)
   - 머신러닝 모델링 및 실험 결과 재현·검증
 
 - [Career Helper](https://github.com/Lee-D-S/career-helper)
